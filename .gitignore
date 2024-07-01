@@ -1,3 +1,7 @@
 week_2/raw_data/*.parquet
 week_2/output/**
 week_2/mlflow/artifacts/**
+week_6/homework/__pycache__
+week_6/homework/**/__pycache__
+week_6/homework/.pytest_cache
+week_6/homework/taxi_type=yellow_year=2023_month=03.parquet
